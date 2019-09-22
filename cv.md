@@ -11,3 +11,12 @@ Stack: ASP.NET MVC 4, EntityFramework, MS SQL Server<br>
 Responsiblities:
 * Implement software customizations and configurations per the approved requirements
 * Complete tasks and documentation as assigned by the LTD / LPD 
+### **Brimit**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;July 2018–September 2018
+#### Project: Bank website
+Stack: ASP.NET MVC 5, Sitecore, HTML5, JS/jQuery<br>
+Responsiblities:
+* Gathering requirements;
+* Back-end development using Sitecore;
+* Development of module that handles locations of ATMs and back offices;
+* Development of calculator for bonus points;
+* Front-end development using HTML5 and CSS3.
