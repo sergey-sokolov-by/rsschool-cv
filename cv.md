@@ -20,3 +20,8 @@ Responsiblities:
 * Development of module that handles locations of ATMs and back offices;
 * Development of calculator for bonus points;
 * Front-end development using HTML5 and CSS3.
+
+## Education
+Belarusian State Technological University, Minsk, Belarus (2007 - 2012)<br>
+Bachelor of Science in Computer Science degree.
+
